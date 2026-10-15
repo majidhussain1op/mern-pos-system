@@ -6,3 +6,6 @@ node_modules/
 !.env.example
 build/
 dist/
+
+# Local Netlify folder
+.netlify
